@@ -1,0 +1,30 @@
+.screen{
+    background-image: url(front-left-side-47.jpg);
+    background-size: 1366px;
+    width: 100vw;
+    height: 100vh;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+
+}
+.navbar-brand{
+    width: 20vw;
+    height: 10vh;
+    padding: 20px;
+    margin-right: 40px;
+    justify-content: flex-start;
+    align-items: center;
+}
+.nav-item{
+    color: black;
+    font-family: sans-serif;
+    font-size: large;
+}
+.nav-item1{
+    color: black;
+    font-family: sans-serif;
+    font-size: large;
+
+}
